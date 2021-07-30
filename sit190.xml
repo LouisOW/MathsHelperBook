@@ -8,7 +8,7 @@
         \newcommand{\doubler}[1]{2#1}
         </macros>
     </docinfo>
-	<article xml:id="minimal">
+	<article xml:id="MathsHelper">
 	<title>MathsHelper</title>
 
 	<frontmatter>
