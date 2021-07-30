@@ -34,7 +34,7 @@
 	<section xml:id="section-textual">
 		<title>Fractions</title>
 		
-		<subsection>
+		<subsection xml:id="adding-multplying-fracs">
 		<title>Adding and multiplying fractions</title>
 		
 		<subsection>
@@ -54,7 +54,7 @@
 		</subsection>
 		
 		
-		<subsection>
+		<subsection xml:id="dividing-fracs">
 		<title>Dividing fractions</title>
 		
 		
